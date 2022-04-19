@@ -10,6 +10,10 @@
 * Loop, Seek, Shuffle, Specific Skip, Playlists etc support
 * Global, Users, Chats Top 10 played tracks stats
 * Multi-Language support
+### Deploy To Heroku
+
+[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/khushbuxabhi/YukkiAlisha)
+
 
 
 # 🔗 An Overview
